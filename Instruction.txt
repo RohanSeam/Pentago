@@ -1,0 +1,7 @@
+Start: 
+	run Driver.java
+	User input can be upper or lower case.
+	Starting person is decided randomly.
+	Follow instructions on Console.
+	Output is dislayed in Output.txt.
+	Game is played till winner is determined.
