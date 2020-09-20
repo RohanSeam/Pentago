@@ -15,4 +15,4 @@ Notes:
   •Twisting the board can cause two players to win simultaneously,which is also a tie. 
   •It is possible to win the game by placing a tokenbefore twisting a game block -in this case the game block does not need to be twisted. 
   
-A sample run is included within the repository readme.txt
+A sample run is included within the repository Readme.txt
